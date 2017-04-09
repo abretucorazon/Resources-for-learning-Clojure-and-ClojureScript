@@ -1,4 +1,4 @@
-# Resources-for-learning-Clojure-and-ClojureScript
+# Resources for learning Clojure and ClojureScript
 
 ### ClojureScript
 
